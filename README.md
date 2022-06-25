@@ -1,0 +1,2 @@
+# DjangoCRUDTask
+Django CRUD
